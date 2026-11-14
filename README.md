@@ -136,10 +136,10 @@ LIMIT 10;
 sales-customer-analytics-dashboard/
 │
 ├── data/
+│   └── Sample_Superstore.csv
 ├── docs/
-│   └── dashboard.png
-├── sql/
-├── README.md
+│   └── Sales_Customer_Analytics_Dashboard.png
+└── README.md
 ```
 
 ---
