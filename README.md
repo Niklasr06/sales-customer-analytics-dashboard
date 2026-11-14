@@ -93,6 +93,8 @@ Highlights the highest-performing products by sales.
 
 # SQL Analysis Examples
 
+All queries are in [`sql/02_analysis.sql`](sql/02_analysis.sql); the table setup and CSV import are in [`sql/01_create_table.sql`](sql/01_create_table.sql).
+
 ## Total Revenue
 
 ```sql
@@ -139,6 +141,9 @@ sales-customer-analytics-dashboard/
 │   └── Sample_Superstore.csv
 ├── docs/
 │   └── Sales_Customer_Analytics_Dashboard.png
+├── sql/
+│   ├── 01_create_table.sql
+│   └── 02_analysis.sql
 └── README.md
 ```
 
